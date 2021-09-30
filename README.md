@@ -6,7 +6,7 @@ Includes: data acquisition, topographic/BRDF corrections on hyperspectral reflec
 Preferred citation (DataCite format):  
  	Farella, Martha Mary; Barnes, Mallory L.; Breshears, David D.; Mitchell, Jessica; van Leeuwen, Willem J. D.; and Gallery, Rachel E. (2020)
 	Data and code for "Evaluation of vegetation indices and imaging spectroscopy to estimate foliar nitrogen across disparate biomes"
-  	github. Dataset. 
+  	github. Dataset. http://doi.org/10.5281/zenodo.5542250
 
 Corresponding Author:   
   Martha Farella, Indiana University, School of Public and Environmental Affairs, farellam@iu.edu
@@ -15,7 +15,7 @@ License:
   MIT
   
 DOI:
-
+  http://doi.org/10.5281/zenodo.5542250
 
 ---------------------------------------------
 ## Summary
