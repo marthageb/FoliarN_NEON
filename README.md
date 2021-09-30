@@ -1,5 +1,6 @@
 # Data and code for cross-biome FoliarN analysis on NEON data
 manuscript submitted to Ecosphere Oct2021 titled, 'Evaluation of vegetation indices and imaging spectroscopy to estimate foliar nitrogen across disparate biomes'. 
+
 Includes: data acquisition, topographic/BRDF corrections on hyperspectral reflectance data, 2-band veg index calculations, and PLSR analysis
 
 Preferred citation (DataCite format):  
