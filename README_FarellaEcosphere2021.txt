@@ -4,16 +4,14 @@ Preferred citation (DataCite format):
  	Farella, Martha Mary; Barnes, Mallory L.; Breshears, David D.; Mitchell, Jessica; van Leeuwen, Willem J. D.; and Gallery, Rachel E. (2020)
 	Data and code for "Evaluation of vegetation indices and imaging spectroscopy to estimate foliar nitrogen across disparate biomes"
   	github. Dataset. 
-	https://doi.org/10.25422/azu.data.12904412
 
 Corresponding Author:   
   Martha Farella, Indiana University, School of Public and Environmental Affairs, farellam@iu.edu
 
 License:
-    CC BY 4.0
-
+  MIT
+  
 DOI:
-  https://doi.org/10.25422/azu.data.12904412
 
 
 ---------------------------------------------
