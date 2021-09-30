@@ -1,4 +1,4 @@
-# Data and code for 'Evaluation of vegetation indices and imaging spectroscopy to estimate foliar nitrogen across disparate biomes'
+# Data and code for manuscript submitted to Ecosphere titled, 'Evaluation of vegetation indices and imaging spectroscopy to estimate foliar nitrogen across disparate biomes' (cross-biome FoliarN analysis on NEON data). Includes: data acquisition, topographic/BRDF corrections on hyperspectral reflectance data, 2-band veg index calculations, and PLSR analysis
 
 Preferred citation (DataCite format):  
  	Farella, Martha Mary; Barnes, Mallory L.; Breshears, David D.; Mitchell, Jessica; van Leeuwen, Willem J. D.; and Gallery, Rachel E. (2020)
